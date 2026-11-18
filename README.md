@@ -1,5 +1,7 @@
 # LIMO Autonomous Navigation Prototype
 
+[Portfolio case study](https://scandial-portfolio.scandium.chatgpt.site/project-limo.html) · This repository contains the case study and public evidence. See [all-limo-control](https://github.com/scandium1102/all-limo-control) for related ROS navigation source.
+
 A student robotics prototype for indoor autonomous navigation on an AgileX LIMO platform. The target use case is medical-item delivery; this repository documents the navigation and system-integration work, not a deployed hospital service.
 
 ![LIMO system overview](assets/limo-overview.png)
